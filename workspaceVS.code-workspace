@@ -4,9 +4,6 @@
 			"path": "..\\Project202109one"
 		},
 		{
-			"path": "..\\Project_2021_10"
-		},
-		{
 			"name": "TinyML",
 			"path": "..\\TinyML"
 		},
@@ -15,6 +12,12 @@
 		},
 		{
 			"path": "."
+		},
+		{
+			"path": "..\\Fun_Projects"
+		},
+		{
+			"path": "..\\Project_2021_10"
 		}
 	],
 	"settings": {}
